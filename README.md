@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Enzo889, I'm from Argentina
 - 👀 I’m interested in learn new skills
-- 🌱 I’m currently learning backend
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me enzobustamante895@gmail.com
