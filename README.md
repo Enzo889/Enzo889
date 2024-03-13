@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Enzo889, I'm from Argentina
-- 👀 I’m interested in learn new skills
-- 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me enzobustamante895@gmail.com
+<h1 align="center">Hi 👋, I'm Enzo Bustamante</h1>
+<h3 align="center">A passionate frontend developer from Argentina</h3>
 
+- 🌱 I’m currently learning **All about frontend**
+
+- 📫 How to reach me **enzobustamante895@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/enzo-bustamante-1401121b3/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/enzonicolas24) 
