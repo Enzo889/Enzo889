@@ -4,7 +4,9 @@
 ###
 
 <div align="center">
+ 
 ![Enzo889's Stats](https://github-readme-stats.vercel.app/api?username=Enzo889&theme=onedark&show_icons=true&hide_border=false&count_private=false)
+ 
 ![Enzo889's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo889&theme=onedark&show_icons=true&hide_border=false&layout=compact)
 </div>
 
