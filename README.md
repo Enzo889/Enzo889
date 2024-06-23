@@ -1,6 +1,6 @@
 <div>
    <img align=left width=42 src=./catcat.gif />
-  <a href="https://twitter.com/enzonicolas24"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+mono&weight=500&duration=2500&pause=500&color=C6767E&background=2BFFE000&vCenter=true&random=false&width=435&lines=hey+there;Twitter%3A+%40enzonicolas24" alt="Typing SVG" /></a>
+  <a href="https://twitter.com/enzodev_"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+mono&weight=500&duration=2500&pause=500&color=C6767E&background=2BFFE000&vCenter=true&random=false&width=435&lines=hey+there;Twitter%3A+%40enzodev_" alt="Typing SVG" /></a>
 </div>
 <h1 align="center">Hi 👋, I'm Enzo Bustamante</h1>
 <h2 align="center">Fronted Developer</h2>
