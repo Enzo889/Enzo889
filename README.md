@@ -9,9 +9,9 @@
 <h2 align="center">Frontend Developer</h2>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Enzo889&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=crt&color=%23ffffffFF">
-    <img alt="GitHub Stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Enzo889&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=monochrome&color=%23000000">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Enzo889/Enzo889/output/github-stats-dark.png">
+    <img alt="Enzo's GitHub Stats" src="https://raw.githubusercontent.com/Enzo889/Enzo889/output/github-stats.png">
   </picture>
 <br/>
 
