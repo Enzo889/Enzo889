@@ -9,11 +9,6 @@
 <h2 align="center">Frontend Developer</h2>
 
 <div align="center">
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Enzo889/Enzo889/output/github-stats-dark.png">
-    <img alt="Enzo's GitHub Stats" src="https://raw.githubusercontent.com/Enzo889/Enzo889/output/github-stats.png">
-  </picture>
-<br/>
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Enzo889?cardType=github&theme=onedark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
@@ -74,4 +69,5 @@
 ---
 
 ### 🐍 Activity
+
 ![Snake animation](https://raw.githubusercontent.com/Enzo889/Enzo889/output/github-contribution-grid-snake-dark.svg)
