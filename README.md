@@ -1,20 +1,21 @@
 <div>
   <img align="left" width="42" src="./catcat.gif" />
   <a href="https://twitter.com/enzodev_">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+mono&weight=500&duration=2500&pause=500&color=C6767E&background=2BFFE000&vCenter=true&width=435&lines=Software+Developer;Frontend+Specialist;Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+mono&weight=500&duration=2500&pause=500&color=C6767E&background=2BFFE000&vCenter=true&width=435&lines=Software+Developer;Frontend+Specialist;Tech+Enthusiast;@enzodev_" alt="Typing SVG" />
   </a>
 </div>
 
 <h1 align="center">Hi 👋, I'm Enzo Bustamante</h1>
 <h2 align="center">Frontend Developer</h2>
 
-<div align="center">
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Enzo889?cardType=github&theme=onedark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-
-  <br/>
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Enzo889&theme=onedark)](https://git.io/streak-stats)
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
+  <a href="https://git.io/awesome-stats-card">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Enzo889?cardType=github&theme=onedark" height="150px" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Enzo889&theme=onedark" height="150px" />
+  </a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Enzo889&theme=onedark" height="150px" />
 </div>
 
 ### 📬 Connect with me
